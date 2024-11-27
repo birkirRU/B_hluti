@@ -1,0 +1,4 @@
+1431000 0 Útseld vinna janúar
+1711019 121000 Útseld vinna febrúar
+0 1610000 laun janúar
+0 1011000 laun febrúar
